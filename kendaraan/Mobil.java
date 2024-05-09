@@ -1,7 +1,7 @@
 package kendaraan;
 import mesin.Mesin;
 
-public class Moibl {
+public class Mobil {
     private String merek;
     private String bahanBakar;
     private String kapasitasBensin;

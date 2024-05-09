@@ -1,13 +1,13 @@
 
-import kendaraan.Moibl;
+import kendaraan.Mobil;
 import kendaraan.SepedaMotor;
 import mesin.Mesin;
 
-public class Mian {
+public class Main {
     
     public static void main(String[] args) {
         SepedaMotor motor1 = new SepedaMotor();
-        Moibl mobil1 = new Moibl();
+        Mobil mobil1 = new Mobil();
         Mesin spekMesinMotor;
         Mesin spekMesinMobil;
 
