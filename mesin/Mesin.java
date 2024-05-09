@@ -21,4 +21,5 @@ public class Mesin {
     public String getLangkahMesin(){
         return this.langkahMesin;
     }
+
 }
